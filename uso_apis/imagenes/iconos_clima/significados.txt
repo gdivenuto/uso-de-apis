@@ -1,0 +1,17 @@
+
+FUENTE: https://openweathermap.org/weather-conditions
+
+Listado de íconos
+-----------------
+DIA  	    NOCHE  	    DESCRIPCION
+--------------------------------------------
+01d.png 	01n.png 	cielo limpio
+02d.png 	02n.png 	pocas nubes
+03d.png 	03n.png 	nubes dispersas
+04d.png 	04n.png 	nubes rotas
+09d.png 	09n.png 	aguacero
+10d.png 	10n.png 	lluvia
+11d.png 	11n.png 	tormenta
+13d.png 	13n.png 	nieve
+50d.png 	50n.png 	niebla 
+
