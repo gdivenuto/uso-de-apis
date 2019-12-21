@@ -1,5 +1,8 @@
 # uso-de-apis
-Aquí se encuentran ejemplos del uso de APIs de terceros y propias.
+La Interfaz de Programación de Aplicaciones, conocida por la sigla API, en inglés, Application Programming Interface, es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción.
+(https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+
+Aquí se encuentran dos ejemplos del uso de APIs de terceros y una propias.
 
 Una API es provista por el sitio "openweathermap.org", la segunda API provista por un Banco Oficial.
 
